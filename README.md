@@ -2,8 +2,6 @@
 
 ## I will be using 2 API's
 1. Edamam:-  "Recipe API to get access to the recipe database." quote from website below.
-<<<<<<< HEAD
-<<<<<<< HEAD
 	1.1. https://developer.edamam.com/edamam-docs-recipe-api
 		https://developer.edamam.com/recipe-demo
 
